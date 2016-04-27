@@ -1,0 +1,28 @@
+name: Kris McKay
+favicon: null
+layout_spectrum: 0.07333445898257196
+typography_spectrum: 0.4679024431388825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1761922910809517
+  lightness: 0.6176871513016522
+  saturation: 0.7428115024231374
+  rhythmicContrast: 0.8151966969016939
+purpose: []
